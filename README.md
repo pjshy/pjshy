@@ -10,11 +10,12 @@ Experienced frontend engineer with strong expertise in web application architect
 
 ## Skills
 
-- JavaScript / ECMAScript, TypeScript, HTTP
-- React, RxJS, Redux, MobX
-- GraphQL, Node.js, Python
-- Frontend architecture, monorepo strategy, code quality
-- Team leadership, code review, CI/CD process improvement
+- JavaScript / ECMAScript / TypeScript
+- React / Next.js / Remix
+- Web Dev & Build & Deploy Tool-chain
+- Node.js, Python, Golang
+- Frontend architecture, monorepo strategy, code quality, CI/CD process improvement
+- Team leadership
 
 ## Work Experience
 
@@ -22,7 +23,7 @@ Experienced frontend engineer with strong expertise in web application architect
 
 - LeetCode (Shanghai) | 2019 - 2020
 
-- Teambition | 2016 - 2019
+- Teambition（Acquired by Alibaba） | 2016 - 2019
 
 ## Education
 
